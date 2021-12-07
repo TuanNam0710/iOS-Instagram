@@ -23,7 +23,7 @@ struct LoginView: View {
                             Spacer()
                                 .frame(width: UIScreen.main.bounds.width, height: 35 + geometry.safeAreaInsets.top, alignment: .top)
                             HStack {
-                                Image("Instagram_logo")
+                                Image("Instagram_logo_white")
                                     .resizable()
                                     .scaledToFit()
                                     .padding(.leading, 70)
